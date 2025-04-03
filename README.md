@@ -1,7 +1,7 @@
 ## Hi, I'm Colin Lessor
 
--🖥️ I have been coding in Java and Python for over 5 years
--🔭 I'm working on getting AWS Solution Architect certified
+-🖥️ I have been coding in Java and Python for over 5 years \n
+-🔭 I'm working on getting AWS Solution Architect certified \n
 -🌱 I just built and configured a website for [Genesis One Roofing](https://www.genesisoneroofing.com/)! It was a fun experince! 
 -💼 I'm Looking for my first full time job!
 -🤝 Follow me on [LinkedIn](https://www.linkedin.com/in/colin-lessor-a547b4236/)!
